@@ -1,0 +1,1 @@
+stash command test in 9.txt file
