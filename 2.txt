@@ -1,2 +1,5 @@
+
+check for diff command
+
 2 file added
 
