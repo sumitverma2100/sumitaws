@@ -1,2 +1,5 @@
+
+merge config practic
+
 1 file added
 edit for status
